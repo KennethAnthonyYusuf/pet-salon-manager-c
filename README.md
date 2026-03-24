@@ -52,6 +52,8 @@ gcc pet_salon.c -o salon
 ./salon
 ```
 
+---
+
 ## How to Use the Program
 
 The program runs as an interactive command-line application. After starting the program, you can enter commands to manage salons, rooms, and pets.
