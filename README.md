@@ -1,6 +1,16 @@
-# Pet Salon Manager (C)
+# 🐾 Pet Salon Manager (C)
 
 A command-line pet salon management system written in C using linked lists, dynamic memory allocation, and interactive commands.
+
+---
+
+## 🚀 Key Highlights
+
+- Built a fully interactive **command-line management system**
+- Implemented **linked list data structures** to manage salons and rooms
+- Designed modular functions for **salon, room, and pet operations**
+- Handled **dynamic memory allocation** safely using `malloc` and `free`
+- Demonstrates strong understanding of **C programming and data structures**
 
 ---
 
@@ -33,20 +43,21 @@ The system is fully interactive and demonstrates core concepts in low-level prog
 
 - **Language:** C  
 - **Tools:** GCC, Command Line  
-- **Concepts:**  
-  - Structs and enums  
-  - Singly linked lists  
-  - Dynamic memory allocation (`malloc`, `free`)  
-  - Input parsing (`scanf`)  
-  - String handling  
-  - Modular function design  
-  - Error handling  
+
+### Concepts Demonstrated
+
+- Structs and enums  
+- Singly linked lists  
+- Dynamic memory allocation (`malloc`, `free`)  
+- Input parsing (`scanf`)  
+- String handling  
+- Modular function design  
+- Error handling  
 
 ---
 
 ## ▶️ How to Run
 
-Compile:
 ```bash
 gcc pet_salon.c -o salon
 ./salon
@@ -54,7 +65,7 @@ gcc pet_salon.c -o salon
 
 ---
 
-## How to Use the Program
+## 📦 How to Use the Program
 
 The program runs as an interactive command-line application. After starting the program, you can enter commands to manage salons, rooms, and pets.
 
@@ -98,11 +109,46 @@ Each command is a single character followed by required inputs.
 
 ---
 
-### 📝 Notes
+## 🧠 Technical Insights
+
+- **Linked List Design**  
+  Salons and rooms are implemented using linked lists, allowing dynamic insertion, deletion, and traversal.
+
+- **Memory Management in C**  
+  All data structures are dynamically allocated and properly freed, preventing memory leaks.
+
+- **Command-Based Architecture**  
+  The system parses user input and maps commands to specific functions, creating a modular and extensible design.
+
+- **Data Organisation**  
+  Rooms are grouped by pet types and can be sorted or rearranged efficiently.
+
+---
+
+## 💡 Why This Project Matters
+
+This project demonstrates the ability to:
+
+- build an interactive system using low-level C
+- design and manipulate linked data structures
+- handle memory safely and efficiently
+- implement modular and maintainable code
+- process user input and manage program state
+
+It reflects strong foundations in **data structures, systems programming, and problem-solving**, which are valuable in software engineering roles.
+
+---
+
+## 📝 Notes
 
 - Valid pet types: `cat`, `dog`, `rabbit`, `parrot`
 - Each room has a maximum capacity of 10 pets
 - Commands are case-sensitive
-- The program runs continuously until you terminate it (Ctrl + D)
+- The program runs continuously until terminated (`Ctrl + D`)
 
 ---
+
+## 🚀 Author
+
+**Kenneth Anthony Yusuf**  
+Computer Science Student @ UNSW
