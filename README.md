@@ -50,6 +50,7 @@ Compile:
 ```bash
 gcc pet_salon.c -o salon
 ./salon
+```
 
 ## How to Use the Program
 
