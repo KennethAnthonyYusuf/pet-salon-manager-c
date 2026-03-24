@@ -104,4 +104,3 @@ Each command is a single character followed by required inputs.
 - The program runs continuously until you terminate it (Ctrl + D)
 
 ---
->>>>>>> 7249fee (Initial commit)
