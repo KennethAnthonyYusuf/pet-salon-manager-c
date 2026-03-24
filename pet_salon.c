@@ -1,6 +1,4 @@
-// cs_pet_salon.c
-//
-// This program was written by Kenneth Anthony Yusuf (z5642026)
+// This program was written by Kenneth Anthony Yusuf
 // on 1/11/2024
 //
 // This program creates a pet salon manager for several salons where the
