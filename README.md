@@ -153,8 +153,6 @@ This project demonstrates the ability to:
 - implement modular and maintainable code
 - process user input and manage program state
 
-It reflects strong foundations in **data structures, systems programming, and problem-solving**, which are valuable in software engineering roles.
-
 ---
 
 ## Notes
