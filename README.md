@@ -1,4 +1,4 @@
-# 🐾 Pet Salon Manager (C)
+# Pet Salon Manager (C)
 
 A command-line pet salon management system written in C using linked lists, dynamic memory allocation, and interactive commands.
 
