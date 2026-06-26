@@ -72,7 +72,7 @@ cd pet-salon-manager-c
 2. Compile the program:
 
 ```bash
-gcc pet_salon.c -o salon
+gcc pet_salon.c -o pet_salon
 ```
 
 3. Run the program:
