@@ -56,10 +56,28 @@ The system is fully interactive and demonstrates core concepts in low-level prog
 
 ---
 
+## Requirements
+
+- GCC (GNU C Compiler)
+
 ## How to Run
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/KennethAnthonyYusuf/pet-salon-manager-c.git
+cd pet-salon-manager-c
+```
+
+2. Compile the program:
 
 ```bash
 gcc pet_salon.c -o salon
+```
+
+3. Run the program:
+
+```bash
 ./salon
 ```
 
