@@ -4,7 +4,7 @@ A command-line pet salon management system written in C using linked lists, dyna
 
 ---
 
-## 🚀 Key Highlights
+## Key Highlights
 
 - Built a fully interactive **command-line management system**
 - Implemented **linked list data structures** to manage salons and rooms
@@ -14,7 +14,7 @@ A command-line pet salon management system written in C using linked lists, dyna
 
 ---
 
-## 📖 Overview
+## Overview
 
 This project simulates a pet salon business where users can manage multiple salons, create rooms for different pet types, add pets, care for pets, track profit, and organise salon data through typed commands.
 
@@ -22,7 +22,7 @@ The system is fully interactive and demonstrates core concepts in low-level prog
 
 ---
 
-## ✨ Features
+## Features
 
 - Manage multiple salons using a linked list structure
 - Add and organise pet rooms (cat, dog, rabbit, parrot)
@@ -39,7 +39,7 @@ The system is fully interactive and demonstrates core concepts in low-level prog
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Language:** C  
 - **Tools:** GCC, Command Line  
@@ -56,7 +56,7 @@ The system is fully interactive and demonstrates core concepts in low-level prog
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 ```bash
 gcc pet_salon.c -o salon
@@ -65,7 +65,7 @@ gcc pet_salon.c -o salon
 
 ---
 
-## 📦 How to Use the Program
+## How to Use the Program
 
 The program runs as an interactive command-line application. After starting the program, you can enter commands to manage salons, rooms, and pets.
 
@@ -73,7 +73,7 @@ Each command is a single character followed by required inputs.
 
 ---
 
-### 🏗️ Salon Management
+### Salon Management
 
 | Command | Description | Example |
 |---------|-------------|---------|
@@ -86,7 +86,7 @@ Each command is a single character followed by required inputs.
 
 ---
 
-### 🐾 Room Management
+### Room Management
 
 | Command | Description | Example |
 |---------|-------------|---------|
@@ -98,7 +98,7 @@ Each command is a single character followed by required inputs.
 
 ---
 
-### 🐶 Pet Management
+### Pet Management
 
 | Command | Description | Example |
 |---------|-------------|---------|
@@ -109,7 +109,7 @@ Each command is a single character followed by required inputs.
 
 ---
 
-## 🧠 Technical Insights
+## Technical Insights
 
 - **Linked List Design**  
   Salons and rooms are implemented using linked lists, allowing dynamic insertion, deletion, and traversal.
@@ -125,7 +125,7 @@ Each command is a single character followed by required inputs.
 
 ---
 
-## 💡 Why This Project Matters
+## Why This Project Matters
 
 This project demonstrates the ability to:
 
@@ -139,7 +139,7 @@ It reflects strong foundations in **data structures, systems programming, and pr
 
 ---
 
-## 📝 Notes
+## Notes
 
 - Valid pet types: `cat`, `dog`, `rabbit`, `parrot`
 - Each room has a maximum capacity of 10 pets
@@ -148,7 +148,6 @@ It reflects strong foundations in **data structures, systems programming, and pr
 
 ---
 
-## 🚀 Author
+## Author
 
-**Kenneth Anthony Yusuf**  
-Computer Science Student @ UNSW
+**Kenneth Anthony Yusuf**
